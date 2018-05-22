@@ -1,0 +1,4 @@
+add_lunch_combo adamant_maple-user
+add_lunch_combo adamant_maple-userdebug
+add_lunch_combo adamant_maple_dual-user
+add_lunch_combo adamant_maple_dual-userdebug
